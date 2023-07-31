@@ -24,6 +24,12 @@ Download or clone the repository to your local machine.
 Navigate to the folder containing the Tic Tac Toe game files.
 Open a terminal or command prompt in this directory.
 
+#To Run the Game
+"Run main.html using live server"
+(The game will prompt Player 1 to choose their mark "X" or "O", and then the game will begin.
+Game Controls
+When prompted, enter the row and column numbers separated by a space (e.g., "1 1" for the top-left cell).
+
 License:
 This project is licensed under the MIT License.
 
